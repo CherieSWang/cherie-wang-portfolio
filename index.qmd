@@ -1,11 +1,27 @@
 ---
-title: "cherie-wang-portfolio"
+title: "Cherie Wang"
+subtitle: "Student at CSUMB"
+image: Cherie_wang.jpg
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/cherieswang/
+    - icon: github
+      text: Github
+      href: https://github.com/CherieSWang
 ---
 
-This is a Quarto website.
+Cherie Wang is a student at California State University, Monterey Bay.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+Washington High School \| Fremont, CA
+
+High School Diploma \| (Aug 2019 - June 2023)
+
+California State University, Monterey Bay \| Seaside, CA
+
+Attending for a B.S. Statistics \| Aug 2023 - Present
