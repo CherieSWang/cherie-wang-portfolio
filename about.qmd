@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Cherie Wang a student attending CSU Monterey Bay. She loves math, listening to music, and playing video games. Before attending college she had taken 5 years of kung fu. During those 5 years she was able to achieve the goal of getting black belt. She learned to be more focused, to be disciplined and to show respect and kindness.
